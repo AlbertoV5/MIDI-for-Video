@@ -1,7 +1,7 @@
 # MIDI-for-Video
 Plot MIDI CSV for video
 
-Included Dean Town folder with all the individual MIDI .csv and their respective graphs. Separated by folders as that was the easier way with my current setup.
+Included Dean Town folder with all the individual MIDI .csv and their respective graphs. Separated by folders as that was the easiest way with my current setup.
 
 How to Use:
  1. Get a MIDI to .CSV, make sure the script reads the column you are interested in (Pitch, Position, Velocity, Length). I'm using beat instead of MIDI ticks for position and length (from a resolution of 1/960). 
