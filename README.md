@@ -1,5 +1,5 @@
 # MIDI-for-Video
-Plot MIDI CSV for video
+Plot MIDI CSV for video with Python-Matplotlib
 
 Included Dean Town folder with all the individual MIDI .csv and their respective graphs. Separated by folders as that was the easiest way with my current setup.
 
